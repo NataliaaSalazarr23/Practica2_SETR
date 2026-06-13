@@ -9,4 +9,4 @@ void app_main(void)
     adc_init();
 
     create_tasks();
-}
+} 
